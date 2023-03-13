@@ -74,9 +74,10 @@ Fazer update
 Fazer autorizações
 Instalar drivers
 Instalações sistema comercial
+Configuração de cameras de segurança
 
 ###Slogan
-Seu computador  sempre tem jeito.
+Seu computador sempre tem jeito.
 
 ### Description
 RS serviços de informatica.
