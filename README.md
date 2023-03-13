@@ -57,3 +57,32 @@ Note: except for the Project (Root) Folder all files and folders should be (a) l
 1. https://create.vista.com/ru/photos/water-aerobics/
 2. https://www.pexels.com/pt-br/
 3. https://unsplash.com/pt-br
+
+
+### services
+Limpeza
+Formatar HHD
+Trocar peças
+Adicionar memória
+Fazer PC pronto das peças
+Instalar aplicativos
+Instalar windows
+Instalar antivírus
+Instalar videogames
+Consertar laptop/PC
+Fazer update
+Fazer autorizações
+Instalar drivers
+Instalações sistema comercial
+
+###Slogan
+Seu computador  sempre tem jeito.
+
+### Description
+RS serviços de informatica.
+
+Serviços em computadores e software.
+
+Conserto em notebooks, computadores, monitores, pecas, programas, configurações, upgrades, 
+formatação instalação de windows, telas de notebooks, serviços para Wi-Fi 5.0 GHz,
+instalação de programa de vendas para comércio, e similares em informatica.
