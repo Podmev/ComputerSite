@@ -178,97 +178,34 @@ section h3 {
     padding: 3em;
     display: grid;
     grid-gap: 2em;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr))
 }
 
-.service-box .service-name {
-    align-items: center;
-    display: flex;
-    width: 200px;
+.column {
+    float: left;
+    width: 20%;
+    padding: 10px 25px 10px 25px;
 }
 
-.service-box .service-name h2 {
-    font-size: 150%;
-    color: white;
-    margin: auto;
-    padding: 10px;
+.size-img {
+    overflow: hidden;
+    text-align: center;
 }
 
-.service-img {
-    height: 200px;
-    width: 200px;
-    padding: 5px;
-    margin: 5px;
-    margin-bottom: 20px;
-    background: #17a2b8;
-    border-radius: 50%;
-}
-
-.service-img img{
-    height: 100%;
+.size-img img {
     width: 100%;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 2px solid #fff;
+}
+
+.size-img h3 {
+    font-size: 100%;
+    color: white;
+    text-align: center;
+    margin: auto;
 }
 
 #services {
-    //background-color: #006494;
-    background-image: linear-gradient(to right bottom, #006494, #2c3968);
+    background-color: #3f8e93;
     width: 100%;
-}
-
-#events {
-    background-image: url("./images/background/woman-with-glasses-on-side-of-pool-desktop.jpg");
-    background-size:cover;
-    height: auto;
-    width: 100%;
-}
-
-#events h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 330%;
-    text-align: left;
-    color:rgb(10, 44, 58);
-
-}
-
-#events h3{
-    font-size: 40px;
-    padding-top: 5%;
-    color: rgb(10, 44, 58);
-}
-
-#events .events-info{
-    margin: 15px;
-}
-#events ul{
-    list-style-type: none; /* Remove bullets */
-}
-#events li{
-    font-size: 150%;
-    font-weight: bolder;
-}
-
-@media (max-width: 900px){
-    #events {
-        background-image: url("./images/background/woman-with-glasses-on-side-of-pool-mobile.jpg");
-        background-blend-mode: multiply;
-        background-color: rgba(150,150,150,0.9) !important
-    }
-
-    #events h2 {
-        color:white;
-
-    }
-
-    #events h3{
-        color: white;
-    }
-    #events li{
-        color: white;
-    }
-
 }
 
 .reviews {

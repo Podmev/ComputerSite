@@ -61,7 +61,7 @@ Note: except for the Project (Root) Folder all files and folders should be (a) l
 
 ### services
 Limpeza
-Formatar HHD
+Formatar HD
 Trocar peças
 Adicionar memória
 Fazer PC pronto das peças
