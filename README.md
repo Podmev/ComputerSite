@@ -99,3 +99,6 @@ dim grey 686963
 indian red DB5461
 alice blue E3F2FD
 sea salt FAFAFA
+
+https://icons8.com/icon/set/computer/ios-filled
+https://convertio.co/
