@@ -197,9 +197,10 @@ section h3 {
 }
 
 .size-img h3 {
-    font-size: 100%;
+    font-size: 150%;
     color: white;
     text-align: center;
+    padding: 5px;
     margin: auto;
 }
 
