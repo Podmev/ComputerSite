@@ -132,7 +132,7 @@ section h3 {
 }
 
 #main-page {
-    background-image: url("./images/background/floating-girl-desktop.png");
+    background-image: url("./images/background/stethoscope-computer-desktop.jpeg");
     background-size:cover;
     height: auto;
     width: 100%;
@@ -159,7 +159,7 @@ section h3 {
 
 @media (max-width: 900px){
     #main-page {
-        background-image: url("./images/background/floating-girl-mobile.png");
+        background-image: url("./images/background/stethoscope-computer-mobile.jpg");
         background-blend-mode: multiply;
         background-color: rgba(150,150,150,0.9) !important
     }
