@@ -93,7 +93,7 @@ https://coolors.co/e7e6f7-e3d0d8-aea3b0-827081-c6d2ed
 https://coolors.co/7c6c77-aaa694-d1d0a3-ebf8b8-ffe787
 
 # colors
-https://coolors.co/fafafa-e3f2fd-db5461-686963-8aa29e
+[https://coolors.co/fafafa-e3f2fd-db5461-686963-8aa29e](https://coolors.co/fafafa-e3f2fd-db5461-686963-8aa29e)
 cambridge blue 8aa29e
 dim grey 686963
 indian red DB5461
