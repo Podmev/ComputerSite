@@ -1,5 +1,5 @@
 # PoolSite
-Site for RS Informatica - Computer Service Agency
+Site for RS Informática - Computer Service Agency
 
 [Dashboard](https://trello.com/b/syyDKl42/pool-site)
 
@@ -80,13 +80,13 @@ Configuração de cameras de segurança
 Seu computador sempre tem jeito.
 
 ### Description
-RS serviços de informatica.
+RS serviços de informática.
 
 Serviços em computadores e software.
 
 Conserto em notebooks, computadores, monitores, pecas, programas, configurações, upgrades, 
 formatação instalação de windows, telas de notebooks, serviços para Wi-Fi 5.0 GHz,
-instalação de programa de vendas para comércio, e similares em informatica.
+instalação de programa de vendas para comércio, e similares em informática.
 
 https://coolors.co/dceed1-aac0aa-736372-a18276-7a918d
 https://coolors.co/e7e6f7-e3d0d8-aea3b0-827081-c6d2ed
