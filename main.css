@@ -25,9 +25,7 @@ body {
 
 header {
     padding: 24px 0;
-    //background-color: #77c1e6;
     background-color: #686963;
-    //color: #DB5461;
 }
 
 .logo-img{
@@ -187,12 +185,12 @@ section h3 {
 }
 
 .size-img img {
-    width: 100%;
+    width: 50%;
 }
 
 .size-img h3 {
     font-size: 150%;
-    color: white;
+    color: #E3F2FD;
     text-align: center;
     padding: 5px;
     margin: auto;
