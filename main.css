@@ -189,7 +189,7 @@ section h3 {
 
 @media (max-width: 900px){
     #main-page {
-        background-image: url("./images/background/stethoscope-computer-mobile.jpg");
+        background-image: url("./images/background/stethoscope-computer-mobile.jpeg");
         background-blend-mode: multiply;
         background-color: rgba(150,150,150,0.9) !important
     }
