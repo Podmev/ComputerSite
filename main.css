@@ -40,10 +40,28 @@ header .container {
     align-items: center;
 }
 
+.header-img-text {
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.header-company {
+    color: #DB5461;
+}
+.header-slogan {
+    color: #E3F2FD;
+}
 .header-img {
     text-align: center;
     display: flex;
-    padding: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.logo-img{
+    width: 150px;
+    height: 150px;
 }
 
 header nav li {
@@ -65,9 +83,23 @@ header nav li a {
 /* Add media queries for responsiveness -
 when the screen is 500px wide or less,
 stack the links on top of each*/
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   header .container {
     display: block;
+  }
+
+  .header-img {
+      width: 100px;
+      height: 100px;
+  }
+
+  .logo-img{
+      width: 100px;
+      height: 100px;
+  }
+
+  .header-img-text{
+    font-size: 80%;
   }
 
   header nav li{
