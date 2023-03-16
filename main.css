@@ -181,12 +181,6 @@ section h3 {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr))
 }
 
-.column {
-    float: left;
-    width: 20%;
-    padding: 10px 25px 10px 25px;
-}
-
 .size-img {
     overflow: hidden;
     text-align: center;
