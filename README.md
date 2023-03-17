@@ -59,23 +59,6 @@ Note: except for the Project (Root) Folder all files and folders should be (a) l
 3. https://unsplash.com/pt-br
 
 
-### services
-Limpeza
-Formatar HD
-Substituição peças
-Adicionar memória
-Montar computador
-Instalação de aplicativos
-Instalação de windows
-Instalação de antivírus
-Instalação de videogames
-Conserto de notebook/PC
-Instalação de drivers
-Instalação de sistema comercial
-Fazer update
-Fazer autorizações
-Configuração de cameras de segurança
-
 ###Slogan
 Seu computador sempre tem jeito.
 
