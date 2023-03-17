@@ -62,18 +62,18 @@ Note: except for the Project (Root) Folder all files and folders should be (a) l
 ### services
 Limpeza
 Formatar HD
-Trocar peças
+Substituição peças
 Adicionar memória
-Fazer PC pronto das peças
-Instalar aplicativos
-Instalar windows
-Instalar antivírus
-Instalar videogames
-Consertar laptop/PC
+Montar computador
+Instalação de aplicativos
+Instalação de windows
+Instalação de antivírus
+Instalação de videogames
+Conserto de notebook/PC
+Instalação de drivers
+Instalação de sistema comercial
 Fazer update
 Fazer autorizações
-Instalar drivers
-Instalações sistema comercial
 Configuração de cameras de segurança
 
 ###Slogan
@@ -102,3 +102,14 @@ sea salt FAFAFA
 
 https://icons8.com/icon/set/computer/ios-filled
 https://convertio.co/
+
+
+domain variants:
+busy:
+rsinformatica.com.br
+rscomputerservice
+available
+rscomputers.com.br (but there are similar already)
+rscomputador.com.br (but there are similar already)
+rs-informatica.com.br
+
