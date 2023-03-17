@@ -1,9 +1,9 @@
 # PoolSite
-Site for RS Informática - Computer Service Agency
+Site for RS Norte Digital - Computer Service Agency
 
 [Dashboard](https://trello.com/b/syyDKl42/pool-site)
 
-[Computer site](https://rsinformatica.com.br)
+[Computer site](https://rsnortedigital.com.br)
 
 [Temporary computer site](https://podmev.github.io/computersite)
 
