@@ -5,8 +5,6 @@ Site for RS Norte Digital - Computer Service Agency
 
 [Computer site](https://rsnortedigital.com.br)
 
-[Temporary computer site](https://podmev.github.io/computersite)
-
 # Website folder structure
 
 ![Website folder structure](https://github.com/Podmev/PoolSite/blob/master/images/WebsiteFolderStructure.png?raw=true)
@@ -85,14 +83,3 @@ sea salt FAFAFA
 
 https://icons8.com/icon/set/computer/ios-filled
 https://convertio.co/
-
-
-domain variants:
-busy:
-rsinformatica.com.br
-rscomputerservice
-available
-rscomputers.com.br (but there are similar already)
-rscomputador.com.br (but there are similar already)
-rs-informatica.com.br
-
